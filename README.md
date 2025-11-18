@@ -1,2 +1,2 @@
 # Practice-Python
-In this Repo their is a code that I have written while practicing Pthon
+In this Repo there are codes which I have written while practicing Python!!
